@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsa</h1>
-<h3 align="center">An enthusiast baby dev from France</h3>
+<h3 align="center">An enthusiast dev from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://thievet.needemand.com/](https://thievet.needemand.com/)
 
