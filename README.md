@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elsa</h1>
 <h3 align="center">An enthusiast dev from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://thievet.needemand.com/](https://thievet.needemand.com/)
+- 👨‍💻 All of my projects are available at [https://elsa-thievet.com/](https://elsa-thievet.com/)
 
-- 📄 Know about my experiences [https://thievet.needemand.com/Elsa_Thievet_CV.pdf](https://thievet.needemand.com/Elsa_Thievet_CV.pdf)
+- 📄 Know about my experiences [https://elsa-thievet.com/Elsa_Thievet_CV.pdf](https://elsa-thievet.com/Elsa_Thievet_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
