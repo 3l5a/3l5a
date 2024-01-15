@@ -12,4 +12,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>Currently specializing in  C# and many Mycrosoft technologies, i.e. .NET, WPF, Entity Framework, ADO.NET, ASP.NET, MySQL Server (see my latest repos if you want to know more !)</p>
-<p>Previously did a program in web development and learned HTML, CSS, JavaScript, PHP, MySQL, DB design (with Workbench) and practiced Symfony during an internship :)</p>
+<p>Previously did a program in web development and learned HTML, CSS, JavaScript, PHP, MySQL, DB design (with Workbench) and practiced Symfony during an internship + final exam :)</p>
