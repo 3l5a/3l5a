@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiast dev from France</h3>
 
 
-📄 Know about my experiences [https://elsa-thievet.com/Elsa_Thievet_CV.pdf](https://elsa-thievet.com/Elsa_Thievet_CV.pdf)
+📄 CV [https://elsa-thievet.com/Elsa_Thievet_CV.pdf](https://elsa-thievet.com/Elsa_Thievet_CV.pdf)
 
 <h3 align="left">Connect with me (click the logo) :</h3>
 <p align="left">
